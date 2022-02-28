@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Excellency the Lord General Cromwell and the Covncel of state the humble remonstrance of divers well-affected inhabitants of the town of Colchester in Essex.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94415</idno>
+            <idno type="STC">Wing T1355</idno>
+            <idno type="STC">Thomason 669.f.17[11]</idno>
+            <idno type="STC">ESTC R211389</idno>
+            <idno type="EEBO-CITATION">99870118</idno>
+            <idno type="PROQUEST">99870118</idno>
+            <idno type="VID">163261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163261)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Excellency the Lord General Cromwell and the Covncel of state the humble remonstrance of divers well-affected inhabitants of the town of Colchester in Essex.</title>
+                  <author>Farley, John, fl. 1653.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Iohn Farley [and 11 others].</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "May. 30. 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion and politics --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163261:1" rendition="simple:additions"/>
+            <head>To his Excellency the Lord General CROMWEL AND THE COVNCEL of STATE: <hi>The humble Remonſtrance of divers well-affected Inhabitants of the Town of</hi> COLCHESTER <hi>in</hi> ESSEX.</head>
+            <p>SHEWETH,</p>
+            <p>THat we have been a long time much ſupported under our heavy preſſures, with the expectation of the performances o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the many Vows and Engagements made by your Excellency, the late Parliament, and the Army; that when the Nation (through the bleſſing of God upon the Forces under your Command, and the expence of our bloud and treaſure) wa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> free from the Common enemy, that we ſhould have been eſtabliſhed upon principles of Righteouſneſs, and Juſtice, and been fa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from oppreſſion: But in ſtead thereof, how hath Judgement been turned into Wormwood, and Righteouſneſs rejected as a thing o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no value? How have our Enemies been made the Chief? How hath the Tabernacles of Robbers proſpered? and the oppreſſions o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Nation been increaſed? For which things ſake, hath the Lord been as a ſwift witneſs to viſit our former Governours, whoſe acti<g ref="char:EOLunhyphen"/>ons declared, that they thought never to be removed.</p>
+            <p>But now ſeeing the ſet time is come, that God hath put a period to his actings in, and by, and through the late Parliament, and hath given us occaſion (yeelding all due reſpect to the precious amongſt them) to take up the Proverb, How hath the Oppreſſo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ceaſed? and where is the fury of the Oppreſſor? And hath highly honoured you, and made you the Chief amongſt the People; ou<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hopes and prayers are.</p>
+            <p n="1">I. That you may be faithfull to God, to your own ſouls, and to the People of this Commonwealth, whoſe eyes are upon you whoſe deſires are towards you, and whoſe prayers are for you; that the God of all might would ſtrengthen you in the inward and outward man, that a ſpirit of Judgement and Juſtice may reſt upon you, that you may do worthily in <hi>Ephratah,</hi> and famouſly in <hi>Beth<g ref="char:EOLunhyphen"/>lehem;</hi> that by your means Judgement may run down our ſtreets as Water, freely, fluently, and impartially; and Righteouſneſſe a mighty Stream: And the rather, that you would ſtrengthen your hands in this work, from the conſideration of the quietneſſe o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Nation, during this alteration of Government, which we cannot but look upon, as a ſignal pledge and teſtimony of Gods pre<g ref="char:EOLunhyphen"/>ſence with you, who ſtils the raging of the Sea, and the tumults of the People,</p>
+            <p n="2">II. That as you have cut <hi>Rahab,</hi> and wounded the Harlot, ſo you would ſearch into her intrals, and call the Money-mongers of the Nation to accompt, and make them diſgorge themſelves, of thoſe many millions of Money that they have unrighteouſly heaped up to themſelves as the Duſt of the Streets.</p>
+            <p n="3">III. That all unrighteouſneſſe, and Arbitrary powers, in all Courts of Judicature and Committees, and what ever hath the face<g ref="char:cmbAbbrStroke">̄</g> of oppreſſion, may be taken away; that the Laws may be regulated, Trading incouraged, Tithes annihillated, and another way (no<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> compulſary) to maintain Miniſters ſetled, evill men puniſhed, good men rewarded, and the publick debts of the Nation ſatisfied, according to your ingagements at Tripplo, and New-Market heaths; the promiſes are regiſtred with God, and Freedome is our in<g ref="char:EOLhyphen"/>heritance.</p>
+            <p n="4">IIII. That in all places you would appoint men to act under you; that may be men of courage, fearing God, and hating cove<g ref="char:EOLhyphen"/>touſneſſe, that ſo we may in ſome meaſure, arrive at the happy days promiſed, and prophecied of, that our Officers ſhall be peace, and our Exactors righteouſneſs; and conſider what a plague an evill man is in Magiſtracy.</p>
+            <p n="5">V. That you may avoid thoſe dangerous rocks, of ſelf-ſeeking, and ſelf-advancing intereſts, which former powers have ſuffered ſhipwrack upon; that your ears may be readily open to hear the cries of the poor and needy in the land, that faces may not be known in judgement, that the poor may not be ſubject to the oppreſſion of the rich, nor the rich open to the diſorder of the poor; then ſhal not deſtruction be your heritage, nor you be brought low for oppreſſion, as other powers before you.</p>
+            <p n="6">VI. That ſome faithfull men may be appointed to take the Petitions of the people, to whom the miſeries and the grievances of the Nation may be truly preſented, that as the Lord heareth and avengeth his elect (that cry day and night unto him) though he tarry long: ſo the ſighs and groans of this languiſhing Commonwealth, may at laſt be heard, that we be no longer ſold as ſlaves, but that our priviledges may be given us at our deſires, and our liberties at our requeſts; then ſhall you decree a thing, and it ſhall be eſtabliſhed unto you, and the light ſhall ſhine upon your ways.</p>
+            <p n="7">VII. That your ſpirits may not in proceſſe of time cool, but that you would execute judgement, in the morning of your pro<g ref="char:EOLhyphen"/>ceedings, and deliver the land that is nigh ſpoiled; and in the evening of your days let not your hand reſt, that our reformation may not be nominal, but real; that you would improve this opportunity that God hath given you to the height, for the glory of God, and good of his people: ſo ſhall the upright love you, and men ſhall call you Trees of the Lord, Plants of righteouſneſſe, God ſhall be glo<g ref="char:EOLhyphen"/>rified in you, and the whole Nation ſhall have cauſe to bleſſe God for you, and ſtand by you (as our ſelves) with their Lives and Fortunes.</p>
+            <p n="8">VIII. Conſider that the Judgements of the Lord are abroad in the world, Supream powers muſt be emptied from veſſel to veſſel, until they do appear girt about the paps with a golden girdle, and then they will not mind their own intereſts, no nor their lives, in reſ<g ref="char:EOLhyphen"/>pect of the good of thoſe whom they ſerve; injuſtice ſhall be puniſhed as in the late King, for no ſtrong Hold or Sword can be built or ſharpned againſt Heaven; ſo ſhall you be as Joſhua not onely to deliver, but to ſettle the people in Canaan.</p>
+            <p n="9">IX. Remember what is ſpoken of the oppreſſing City; though Babylon ſhould mount up to Heaven, and though ſhe ſhould for<g ref="char:EOLhyphen"/>tifie the heighth of her ſtrength, yet from me ſhall ſpoilers come unto her, ſaith the Lord, <hi>Ieremiah</hi> 51. 53.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Mr.</hi> Iohn Furley,</item>
+                     <item>
+                        <hi>Mr.</hi> Thomas Peak,</item>
+                     <item>
+                        <hi>Mr.</hi> Richard Allen,</item>
+                     <item>
+                        <hi>Mr.</hi> Iohn Vickers,</item>
+                     <item>
+                        <hi>Mr.</hi> Robert Beal,</item>
+                     <item>Thomas Curling,</item>
+                     <item>
+                        <hi>Mr.</hi> Thomas Radham,</item>
+                     <item>Thomas Gibſon,</item>
+                     <item>
+                        <hi>Mr.</hi> Iohn Aſton,</item>
+                     <item>
+                        <hi>Mr.</hi> Thomas Haſtewood.</item>
+                     <item>
+                        <hi>Mr.</hi> Iohn Drywood.</item>
+                     <item>
+                        <hi>Mr.</hi> Nathaniel Strickſon.</item>
+                  </list>
+With divers hundreds more in a Rowl ready to be produced.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
